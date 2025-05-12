@@ -2,7 +2,7 @@
 Code Reference:
 Adapted from https://github.com/GT-RIPL/CODA-Prompt
 '''
-
+#TODO :might need to modify the code to use the new backbone and prompt class
 import os
 import timm
 import math
