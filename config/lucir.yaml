@@ -1,4 +1,4 @@
-
+data_root: ../data/cifar100
 dataset: &dataset cifar100
 init_cls_num: &init_cls_num 50
 inc_cls_num: &inc_cls_num 5 # 10 5
